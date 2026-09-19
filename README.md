@@ -26,8 +26,8 @@ I also have a sales and marketing side from running university events, so I like
 
 ## 🚀 What I'm working on
 
-- 🚗 **ERP**: a bilingual (English/Arabic), offline-first management platform for PPF and automotive detailing centers. Electron + React + TypeScript client, Node.js API, PostgreSQL/SQLite dual-database sync. Already deployed on-site at a real shop.
-- 🔥 ** CRM/ERP** for a fire safety company: sales pipeline (quotation → order → invoice), multi-warehouse inventory, reporting, and role-based permissions.
+- 🚗 **CRYSTAL COAT ERP**: a bilingual (English/Arabic), offline-first management platform for PPF and automotive detailing centers. Electron + React + TypeScript client, Node.js API, PostgreSQL/SQLite dual-database sync. Already deployed on-site at a real shop.
+- 🔥 **FIRE-WATCH CRM/ERP** for a fire safety company: sales pipeline (quotation → order → invoice), multi-warehouse inventory, reporting, and role-based permissions.
 - 📹 **CCTV Danger Detection**: a YOLO detector that flags fire, smoke, intrusion, and falls in real time, with a Gemini second-opinion pass on flagged frames and a web dashboard for alerts.
 
 ## 🛠️ Tools I use
