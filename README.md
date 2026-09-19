@@ -65,7 +65,7 @@ class Abdulrahman(Engineer):
 
 Computer vision, building offline-first apps and bilingual (Arabic/English) UI
 
-## 📊 GitHub stats
+##  FEEL FREEE TO CONTACT ME 
 
 <div align="center">
 
