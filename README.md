@@ -60,13 +60,10 @@ class Abdulrahman(Engineer):
     }
 ```
 
-## 💼 Experience
-
-- **Junior ICT Engineer (Intern)** at Al-Alameya Group, Saudi Arabia: CCTV installation and infrastructure work.
 
 ## 💬 Ask me about
 
-Computer vision, building offline-first apps, bilingual (Arabic/English) UI, or Egyptian football and coffee ☕⚽
+Computer vision, building offline-first apps and bilingual (Arabic/English) UI
 
 ## 📊 GitHub stats
 
