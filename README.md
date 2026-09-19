@@ -29,6 +29,12 @@ I also have a sales and marketing side from running university events, so I like
 
 - 📹 **CCTV Danger Detection**: a YOLO detector that flags fire, smoke, intrusion, and falls in real time, with a Gemini second-opinion pass on flagged frames and a web dashboard for alerts.
 
+- ## Finished projects
+- Mosquito breeding grounds detection and risk analysis  using YoLo26 and Gemini2.0 dlash
+- Fall detection belt using mpu3060
+- tailored CRM/ERP for different clients in different work industries 
+  
+
 ## 🛠️ Tools I use
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
