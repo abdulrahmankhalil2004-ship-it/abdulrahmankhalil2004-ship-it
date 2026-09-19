@@ -69,12 +69,7 @@ Computer vision, building offline-first apps and bilingual (Arabic/English) UI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top languages" />
 
-</div>
-
-<div align="center">
 
 *Break it → fix it → ship it* 🔁
 
